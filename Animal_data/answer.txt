@@ -1,0 +1,12 @@
+Compare your two solutions (the solution from the Manhattan
+Metric and the solution from Euclidean Distance) to the "right answer".
+How well or poorly did they do? Did either perform significantly better
+than the other? (Your results are not required to match the "right answer"
+perfectly.)
+
+Both algorithims seemed to do an adequate job of sorting the 100 animals into
+the 7 randomly chosen clusters. After running it multiple times the Euclidean 
+algorithim seemed to be more accurate to the "right answer". The solutions were 
+different every time, but seemed to be as accurate as possible considering the 
+randomness of the assigned clusters. 
+
